@@ -5,7 +5,7 @@
 -->
 
 <!-- Header Section with Name and Tagline -->
-<h1 align="center">Hello, Arun Rathaur</h1>
+<h1 align="center">Hello, I am Arun Rathaur</h1>
 <p align="center" >
   <strong>Software Developer</strong> | <strong>Competitive Programmer</strong> | <strong>Always Learning, Always Building</strong>
 </p>
@@ -55,7 +55,7 @@
   <a href = "https://codeforces.com/profile/arunrathaur92.6">Codeforces</a> - <strong> specialist (1526)</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href = "https://www.codechef.com/users/arunrathaur001">CodeChef</a> - <strong>3★ (1785)</strong>
+  <a href = "https://www.codechef.com/users/rahulrathaur">CodeChef</a> - <strong>3★ (1785)</strong>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
