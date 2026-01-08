@@ -12,14 +12,14 @@
 
 <!-- Quick Info Section -->
 - **📔 I'm currently learning:** Full Stack Development, AI/ML
-- **🛣️ How to reach me:** <a href="https://www.linkedin.com/in/arunrathaur16/">LinkedIn</a>
+- **🛣️ How to reach me:** <a href="https://www.linkedin.com/in/arunrathaur16/" target="_blank">LinkedIn</a>
 
 <!-- Achievements Section -->
 ## 🏅 Achievements:
 - **6× Hackathon Winner**
 - **Start-up Founder of KRISHI-HUB**
 - **Lead Software Engineer at PickleballOfficial**  
-  <a href="https://www.thepickleballofficial.com/">Website</a>
+  <a href="https://www.thepickleballofficial.com/" target="_blank">Website</a>
   
 <!-- Education Section -->
 ## 🧑‍🎓 Education: 
