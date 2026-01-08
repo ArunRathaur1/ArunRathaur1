@@ -112,11 +112,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArunRathaur1/ArunRathaur1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArunRathaur1/ArunRathaur1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArunRathaur1/ArunRathaur1/output/pacman-contribution-graph.svg">
-</picture>
 ## 📊 GitHub 3D Contribution Graph
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
