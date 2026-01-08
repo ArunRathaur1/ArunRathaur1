@@ -117,3 +117,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArunRathaur1/ArunRathaur1/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ArunRathaur1/ArunRathaur1/output/pacman-contribution-graph.svg">
 </picture>
+## 📊 GitHub 3D Contribution Graph
+
+![](./profile-3d-contrib/profile-green-animate.svg)
