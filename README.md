@@ -5,7 +5,7 @@
 -->
 
 <!-- Header Section with Name and Tagline -->
-<h1 align="center">Hello, Arun Rathaur</h1>
+<h1 align="center">Hello, I am Arun Rathaur</h1>
 <p align="center" >
   <strong>Software Developer</strong> | <strong>Competitive Programmer</strong> | <strong>Always Learning, Always Building</strong>
 </p>
