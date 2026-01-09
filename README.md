@@ -11,8 +11,12 @@
 </p>
 
 <!-- Quick Info Section -->
-- **📔 I'm currently learning:** Full Stack Development, AI/ML
-- **🛣️ How to reach me:** <a href="https://www.linkedin.com/in/arunrathaur16/" target="_blank">LinkedIn</a>
+## 🚀 About Me
+
+- 📔 **Currently Learning:** Full Stack Development & AI/ML  
+- 🌐 **Portfolio:** [arun-s-innovation-hub.vercel.app](https://arun-s-innovation-hub.vercel.app)  
+- 🛣️ **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/arunrathaur16/)
+
 
 <!-- Achievements Section -->
 ## 🏅 Achievements:
